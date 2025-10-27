@@ -1,5 +1,5 @@
 # Hi there 👋
 ## About myself
-Currently I attend the University of Debrecen and I'm studying Computer Science. I prefer to create websites and manage databases.
-I'm proficient in some programming languages, for instance: SQL, JavaScript and PHP. <br />
+Currently I'm attending to University of Debrecen as a Computer Science student. I'm interested in creating websites (especially the backend side of the web developement), managing databases and machine learning. My first programming language was JavaScript (I know it is one of the most hated programming languages among many programmers, but I don't care). After struggling with JavaScript I started learning Java and Python and I enjoyed both two languages. After that I began the higher education and I got to know one of the most useless languages: Matlab, which seems like Python but it’s definitely not the same. As I mentioned that I really interested in database management I learnt about SQL (Oracle, MariaDB, MySQL), PL/SQL and NoSQL (especially about Redis and MongoDB). I have used Python, Java and PHP as backend developement in my projects. However, sometimes developing websites or softwares is really boring. That’s why I started learning about Data Science.
+Besides programming, I'm also keen on sports and movies — especially morbid films and black comedies.
 [Linkedin](https://www.linkedin.com/in/benj%C3%A1min-ferenczi-4062b4256/)
